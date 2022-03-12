@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+
+layout: page
+title: array_of_difference
+permalink: /algorithm/array_of_difference
