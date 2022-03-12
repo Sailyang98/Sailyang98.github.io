@@ -1,3 +1,6 @@
+layout: page
+title: array_of_difference
+permalink: /algorithm/array_of_difference
 
 ## 问题背景
 假设有一个由`n`个数字组成的数组`A`, 接下来我们会对数组做多次区间修改操作。区间修改操作指的是对某个区间`[i,j]`内的所有元素做同一加减运算，比如对区间[3,5]做加5的运算, 指的就是`A[3],A[4],A[5]`在原来的值的基础上均加上5。
